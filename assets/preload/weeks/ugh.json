@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"ugh",
+			"tord",
+			[
+				186,
+				13,
+				10
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "tank",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"tord",
+		"edd",
+		"gf"
+	],
+	"storyName": "ugh",
+	"weekName": "ugh",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week8",
+	"startUnlocked": true
+}
